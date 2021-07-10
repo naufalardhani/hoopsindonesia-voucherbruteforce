@@ -1,0 +1,4 @@
+token: token_here
+brute_id:
+  start: 0
+  finish: 1000 
